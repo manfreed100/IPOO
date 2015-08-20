@@ -16,3 +16,6 @@ for i in range(c+1):
 for i in range (10):
 	print "asda"
 >>>>>>> 62feb5cb809f050169914fa4872bfdf69841f045
+
+for j in range (10):
+	print "nada"
