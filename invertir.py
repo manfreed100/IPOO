@@ -6,3 +6,5 @@ for i in range(c+1):
 		b+=a[c]
 		c-=1
 		print+str(b)
+
+#asdaweas
